@@ -1,7 +1,7 @@
 # AI-CHATBOT-CURRENCY-CONVERTER-USING-DIALOGFLOW
 AI CHATBOT FOR CURRENCY CONVERTOR USING GOOGLE'S  DIALOGFLOW
 
-This is a AI chatbot for currency conversion. Chatbot is integrated with Telegram.  It gives the latest rates of the currency.
+This is AI chatbot for currency conversion. Chatbot is integrated with Telegram.  It gives the latest rates of the currency.
 It can give latest rates for 33 currency including USD, GBP, INR, CAD etc. List of supported currency can be checked in URL https://app.freecurrencyapi.com/request-playground.
 
 language used -  Python
