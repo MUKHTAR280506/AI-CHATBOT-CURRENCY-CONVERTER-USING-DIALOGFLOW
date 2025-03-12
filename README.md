@@ -40,6 +40,9 @@ Step 8 - Go to integrations and run the chatbot with the options available like 
 
 Step 9 - create a bot in telegram with botfather and get the token and paste the token in dialogflow integration with telegram
           
+![TELEGRAM CHAT](https://github.com/user-attachments/assets/bb08efe3-1902-4fd4-a828-2ed7dcea08a3)
+![CHATBOT IMAGE](https://github.com/user-attachments/assets/ee507036-44cc-4038-9c98-29880fd80d3d)
+
 
  
 
